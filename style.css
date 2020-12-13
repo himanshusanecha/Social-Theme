@@ -59,3 +59,15 @@ body{
 html{
     scroll-behavior: smooth;
 }
+#explore{
+    background: #333;
+}
+#create{
+    background: #333;
+}
+#create1{
+    height: 20rem;
+}
+#div1{
+    margin-right: 20rem;
+}
